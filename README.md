@@ -1,4 +1,4 @@
-# Atom Dark Syntax theme
+# Rui Dark Syntax theme for Atom
 
 A dark syntax theme for Atom.
 
